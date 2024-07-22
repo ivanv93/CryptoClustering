@@ -18,15 +18,15 @@ The PCA analysis identified the following features as having the strongest influ
 
 * PCA1:
 
-- Strongest Positive: price_change_percentage_1y
-- Strongest Negative: price_change_percentage_24h
+    - Strongest Positive: price_change_percentage_1y
+    - Strongest Negative: price_change_percentage_24h
 
 * PCA2:
 
-- Strongest Positive: price_change_percentage_30d
-- Strongest Negative: price_change_percentage_1y
+    - Strongest Positive: price_change_percentage_30d
+    - Strongest Negative: price_change_percentage_1y
 
 * PCA3:
 
-- Strongest Positive: price_change_percentage_7d
-- Strongest Negative: price_change_percentage_60d
+    - Strongest Positive: price_change_percentage_7d
+    - Strongest Negative: price_change_percentage_60d
